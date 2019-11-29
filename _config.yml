@@ -88,7 +88,7 @@ defaults:
 
 # Site Author
 author: pwnbit
-  name: pwnbit
+  name: "pwnbit"
   picture:
   email: "pwnbit@gmail.com"
   # twitter:
