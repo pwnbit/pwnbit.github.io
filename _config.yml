@@ -90,11 +90,11 @@ defaults:
 author: pwnbit
   name: "pwnbit"
   picture:
-  email: "pwnbit@gmail.com"
+  email: pwnbit@gmail.com
   # twitter:
   links:
-    - title: "pwnbit"
-      url: "https://pwnbit.github.io"
+    - title: pwnbit
+      url: https://pwnbit.github.io
       icon:
 
 # Footer Links
