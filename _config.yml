@@ -33,9 +33,9 @@ google_fonts:
     weights: "400,400i,700,700i"
 google_analytics: "UA-56861617-2" # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 # disqus:
-#  shortname: # Disqus shortname, e.g. "my_disqus_shortname"
+  # shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 # twitter:
-#  username: # site's Twitter username, e.g. "mmistakes"
+  # username: # site's Twitter username, e.g. "mmistakes"
 
 # Liquid
 liquid:
@@ -87,8 +87,8 @@ defaults:
       share: true
 
 # Site Author
-author: "pwnbit"
-  name: "pwnbit"
+author: pwnbit
+  name: pwnbit
   picture:
   email: "pwnbit@gmail.com"
   # twitter:
