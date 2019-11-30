@@ -88,14 +88,14 @@ defaults:
 
 # Site Author
 author: pwnbit
-  name: "pwnbit"
+  name: pwnbit
   picture:
   email: "pwnbit@gmail.com"
   # twitter:
-  links:
-    - title "pwnbit"
-      url: "https://pwnbit.github.io"
-      icon:
+  # links: 
+  #  - title "pwnbit"
+  #  url: "https://pwnbit.github.io"
+  #  icon:
 
 # Footer Links
 footer_links:
