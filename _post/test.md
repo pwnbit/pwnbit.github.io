@@ -1,3 +1,9 @@
+---
+title: "jekyll in github.io markdown test"
+date: 2019-12-01 12:28:00 +09:00
+categories: test
+---
+
 Sample Markdown Cheat Sheet
 =========================== 
 
